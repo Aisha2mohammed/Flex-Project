@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background-color: black;
+}
+.content {
+  margin: 0 auto;
+  width: 1000px;
+  background-color: pink;
+}
+.header {
+  padding: 10px;
+  font-size: 40px;
+  font-weight: bold;
+  background-color: rgb(252, 238, 221);
+  color: rgb(44, 44, 69);
+}
+.first {
+  padding: 10px;
+  background-color: rgb(44, 44, 69);
+  color: bisque;
+}
+
+.h2-1 {
+  margin-bottom: 24px;
+}
+
+.p1 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.color.main {
+  font-size: 45px;
+}
+.color {
+  margin-bottom: 40px;
+}
+
+/* seconf part */
+.second {
+  background-color: white;
+  padding: 30px 15px;
+}
+
+.p2 {
+  font-size: 13px;
+  font-weight: 570;
+}
+
+.h2-2 {
+  margin-bottom: 20px;
+  color: rgb(61, 61, 135);
+}
+
+/* third part */
+.third {
+  padding: 15px;
+  margin-bottom: 40px;
+  background-color: rgb(233, 234, 236);
+  color: rgb(44, 44, 69);
+}
+
+.third p {
+  padding-bottom: 8px;
+  font-weight: 570;
+  font-size: 13px;
+}
+
+.third h2 {
+  padding-bottom: 15px;
+}
+.third h1 {
+  padding-bottom: 22px;
+}
