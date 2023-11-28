@@ -95,14 +95,14 @@ p {
 
 .info-box-1 {
   width: 100vw;
-  background-color: white;
+  background-color: bisque;
 }
 
 .info-box-2 {
   width: 1000px;
   margin: 0 auto;
 
-  background-color: white;
+  background-color: bisque;
   padding-bottom: 60px;
 }
 
@@ -129,6 +129,21 @@ p {
   margin-bottom: 8px;
 }
 
+.table.table-1 {
+  background-color: rgb(44, 44, 69);
+}
+
+.table.table-2 {
+  background-color: rgb(66, 66, 103);
+}
+
+.table.table-3 {
+  background-color: rgb(116, 116, 182);
+}
+
+.table.table-4 {
+  background-color: rgb(174, 174, 241);
+}
 .p-box {
   color: rgb(44, 44, 69);
 }
@@ -170,7 +185,7 @@ span {
   width: 1000px;
   margin: 0 auto;
   margin: 100px 100px;
-  margin-left: 350px;
+  margin-left: 400px;
   padding: 40px;
   border-radius: 8px;
   background-color: blue;
@@ -192,7 +207,7 @@ span {
   padding-top: 8px;
 }
 
-.fourth .p1 {
+.fourth.p1 {
   font-size: 40x;
   color: #fff;
 }
